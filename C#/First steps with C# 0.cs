@@ -1,7 +1,7 @@
 /*
 https://docs.microsoft.com/en-us/learn/modules/csharp-if-elseif-else/4-challenge
 Rule 1. If the user's subscription will expire in 10 days or less, output the message:
-Rule 2. Rule 2. If the user's subscription will expire in five days or less, output the messages:
+Rule 2. If the user's subscription will expire in five days or less, output the messages:
 Rule 3. If the user's subscription will expire in one day, output the message:
 Rule 4. If the user's subscription has expired, output the message:
 Rule 5. If the user's subscription doesn't expire in 10 days or less, output nothing.
