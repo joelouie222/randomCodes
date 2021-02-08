@@ -1,4 +1,4 @@
-// HACKERRANK - EASE CHALLENGE by shashank21j
+// HACKERRANK - EASY CHALLENGE by shashank21j
 // https://www.hackerrank.com/challenges/migratory-birds/problem
 
 #include <bits/stdc++.h>
